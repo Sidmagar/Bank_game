@@ -1,0 +1,11 @@
+C:\Users\siddhant.magar\Desktop\1Assignments\BankGame\bin\Debug\net8.0\BankGame.deps.json
+C:\Users\siddhant.magar\Desktop\1Assignments\BankGame\bin\Debug\net8.0\BankGame.dll
+C:\Users\siddhant.magar\Desktop\1Assignments\BankGame\bin\Debug\net8.0\BankGame.pdb
+C:\Users\siddhant.magar\Desktop\1Assignments\BankGame\obj\Debug\net8.0\BankGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddhant.magar\Desktop\1Assignments\BankGame\obj\Debug\net8.0\BankGame.AssemblyInfoInputs.cache
+C:\Users\siddhant.magar\Desktop\1Assignments\BankGame\obj\Debug\net8.0\BankGame.AssemblyInfo.cs
+C:\Users\siddhant.magar\Desktop\1Assignments\BankGame\obj\Debug\net8.0\BankGame.csproj.CoreCompileInputs.cache
+C:\Users\siddhant.magar\Desktop\1Assignments\BankGame\obj\Debug\net8.0\BankGame.dll
+C:\Users\siddhant.magar\Desktop\1Assignments\BankGame\obj\Debug\net8.0\refint\BankGame.dll
+C:\Users\siddhant.magar\Desktop\1Assignments\BankGame\obj\Debug\net8.0\BankGame.pdb
+C:\Users\siddhant.magar\Desktop\1Assignments\BankGame\obj\Debug\net8.0\ref\BankGame.dll
